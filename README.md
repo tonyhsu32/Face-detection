@@ -30,8 +30,10 @@ Use OpenCV, mediapipe packages.
     [SSD: Single Shot MultiBox Detector by Google 2016 paper](https://arxiv.org/pdf/1512.02325.pdf)  
     [Mediapipe Python API](https://google.github.io/mediapipe/getting_started/python)
 
+### *Stephen Curry* Image view ###
 ![Stephen Curry](https://github.com/tonyhsu32/Face-detection/blob/main/screenshot/STEPHEN%20CURRY.png)
-  
+
+### *Guido Van Rossum* Image view ###
 ![Guido Van Rossum](https://github.com/tonyhsu32/Face-detection/blob/main/screenshot/GUIDO%20VAN%20ROSSUM.png)
 
 4. **Attend_data, Face_img, screenshot:**  
